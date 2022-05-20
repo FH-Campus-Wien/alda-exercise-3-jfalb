@@ -21,7 +21,7 @@
       "points": 5
     },
     {
-      "name": "Negative Test",
+      "name": "Negative Test Update",
       "setup": "make exercise3",
       "run": "./exercise3 Test3",
       "input": "",
